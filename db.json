@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "Admiral Ackbar",
     "id": 0,
     "agency": "DAK",
@@ -33,5 +32,25 @@
     "agency": "Independents",
     "applications": 3,
     "newMembers": 6
-  }
-]
+  },
+  {
+    "name": "Kit Fisto",
+    "id": 5,
+    "agency": "DAK",
+    "applications": 2,
+    "newMembers": 12
+  },
+  {
+    "name": "Aayla Secura",
+    "id": 6,
+    "agency": "WRA",
+    "applications": 5,
+    "newMembers": 2
+  },
+  {
+    "name": "JarJar Binks",
+    "id": 7,
+    "agency": "LSA",
+    "applications": 5,
+    "newMembers": 12
+  }]
