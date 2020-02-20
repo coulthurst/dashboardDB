@@ -24,16 +24,38 @@
     {
       "name": "Ahsoka Tano",
       "id": 3,
-      "agency": "Independents",
+      "agency": "IND",
       "applications": 5,
       "newMembers": 23
     },
     {
       "name": "Mace Windu",
       "id": 4,
-      "agency": "Independents",
+      "agency": "IND",
       "applications": 3,
       "newMembers": 6
     }
+  ],
+  "agencies": [
+      {
+          "id": "DAK",
+          "name": "Dakotas"
+      },
+      {
+          "id": "WRA",
+          "name": "Wisconsin River"
+      },
+      {
+          "id": "LSA",
+          "name": "Lakeshore"
+      },
+      {
+          "id": "IND",
+          "name": "Independents"
+      },
+      {
+          "id": "HO",
+          "name": "Home Office"
+      }
   ]
 }
