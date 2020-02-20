@@ -1,4 +1,4 @@
-{
+[{
     "name": "Admiral Ackbar",
     "id": 0,
     "agency": "DAK",
@@ -117,4 +117,4 @@
    "tripCredits": 622.10,
    "total": 200,
    "pending": 201.88
-}
+}]
