@@ -1,35 +1,39 @@
-[{
-    "name": "Admiral Ackbar",
-    "id": 0,
-    "agency": "DAK",
-    "applications": 3,
-    "newMembers": 3
-  },
-  {
-    "name": "Ko Ploon",
-    "id": 1,
-    "agency": "LSA",
-    "applications": 7,
-    "newMembers": 4
-  },
-  {
-    "name": "Ki-Adi Mundi",
-    "id": 2,
-    "agency": "WRA",
-    "applications": 1,
-    "newMembers": 3
-  },
-  {
-    "name": "Ahsoka Tano",
-    "id": 3,
-    "agency": "Independents",
-    "applications": 5,
-    "newMembers": 23
-  },
-  {
-    "name": "Mace Windu",
-    "id": 4,
-    "agency": "Independents",
-    "applications": 3,
-    "newMembers": 6
-  }]
+{
+  "agents": [
+    {
+      "name": "Admiral Ackbar",
+      "id": 0,
+      "agency": "DAK",
+      "applications": 3,
+      "newMembers": 3
+    },
+    {
+      "name": "Ko Ploon",
+      "id": 1,
+      "agency": "LSA",
+      "applications": 7,
+      "newMembers": 4
+    },
+    {
+      "name": "Ki-Adi Mundi",
+      "id": 2,
+      "agency": "WRA",
+      "applications": 1,
+      "newMembers": 3
+    },
+    {
+      "name": "Ahsoka Tano",
+      "id": 3,
+      "agency": "Independents",
+      "applications": 5,
+      "newMembers": 23
+    },
+    {
+      "name": "Mace Windu",
+      "id": 4,
+      "agency": "Independents",
+      "applications": 3,
+      "newMembers": 6
+    }
+  ]
+}
