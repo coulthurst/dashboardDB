@@ -38,19 +38,19 @@
   ],
   "agencies": [
       {
-          "id": "DAK",
+          "id": "14",
           "name": "Dakotas"
       },
       {
-          "id": "WRA",
+          "id": "2",
           "name": "Wisconsin River"
       },
       {
-          "id": "LSA",
+          "id": "9",
           "name": "Lakeshore"
       },
       {
-          "id": "IND",
+          "id": "16",
           "name": "Independents"
       },
       {
